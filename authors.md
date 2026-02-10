@@ -1,4 +1,3 @@
-markdown
 # Auteur
 
 **Nom** : eya REKIK
